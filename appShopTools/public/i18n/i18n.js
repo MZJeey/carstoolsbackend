@@ -14,7 +14,7 @@ i18n
       escapeValue: false, // React ya se encarga de esto, no lo necesitamos
     },
     backend: {
-      loadPath: "../src/translations/{{lng}}/{{ns}}.json", // Ruta donde se encuentran los archivos de traducción
+      loadPath: "/locales/{{lng}}/{{ns}}.json", // Ruta donde se encuentran los archivos de traducción
     },
     ns: [
       "crearProducto",
@@ -30,7 +30,7 @@ i18n
       "pedido",
       "personalizados",
       "promociones",
-      
+
       "resena",
       "todosProductosPersonalizados",
     ], // "namespaces" o nombres de los archivos JSON

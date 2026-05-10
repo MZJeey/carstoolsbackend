@@ -1,0 +1,35 @@
+[30-08-2025 01:28:10] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 51 - Message: Attempt to read property "num_rows" on bool
+ [30-08-2025 01:44:51] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:44:51] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:47:20] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:47:20] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:47:28] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:47:28] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:50:49] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 113 - Message: Duplicate entry 'bernyd760@gmail.com' for key 'usuario.email'
+ [30-08-2025 01:51:57] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:51:57] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:58:40] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:58:40] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:58:50] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:58:50] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:59:00] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 01:59:00] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 02:13:39] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 02:13:44] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 02:14:24] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 02:17:49] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 02:17:54] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 02:32:23] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 51 - Message: Attempt to read property "num_rows" on bool
+ [30-08-2025 02:40:22] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 02:48:36] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 03:14:06] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 03:19:48] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 03:26:57] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 03:27:33] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 03:27:33] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 03:27:44] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 03:27:44] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\PedidoController.php - line: 76 - Message: Undefined property: stdClass::$usuario_id
+ [30-08-2025 03:28:06] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 03:42:47] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 50 - Message: Table 'carstoolscr.pedido_detalle' doesn't exist
+ [30-08-2025 03:58:06] [jason] error: File: C:\xampp\htdocs\carstoolscr\controllers\core\MySqlConnect.php - line: 51 - Message: Attempt to read property "num_rows" on bool
+ 

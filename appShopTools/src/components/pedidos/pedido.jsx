@@ -113,7 +113,6 @@ const FacturaDialog = ({ pedido, open, onClose, setOpenPago }) => {
     ));
   };
 
-
   return (
     <Dialog open={open} onClose={onClose} maxWidth="md" fullWidth>
       <DialogTitle>

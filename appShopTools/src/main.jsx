@@ -36,7 +36,7 @@ import DetalleResenas from "./components/Productos/detallesResena";
 import TodosProductosPersonalizados from "./components/pedidos/TodosProductosPersonalizados";
 
 import { I18nextProvider } from "react-i18next";
-import i18n from "../src/i18n/i18n"; // Ajusta la ruta según tu proyecto
+import i18n from "../public/i18n/i18n"; // Ajusta la ruta según tu proyecto
 // import Promociones from "./components/Productos/promociones";
 import { patch } from "@mui/material";
 import { EditarProducto } from "./components/Productos/updateProducto";
